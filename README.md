@@ -39,7 +39,9 @@
 
 ## Output
 ### MechAnalyzer Graph 
-
+![MechAnalyzer](MechAnalyzer.png)
+### VAD, IC and SFA module
+![VAD, IC and SFA module](<VAD, IC and SFA module.png>)
 ### Name: JUDE CLEMENT JOSE G
 ### Register Number: 212224230109
 
